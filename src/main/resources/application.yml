@@ -1,0 +1,10 @@
+server:
+  port: 9004
+
+spring:
+  application:
+    name: auth-service
+
+jwt:
+  secret: BvPHGM8C0ia4uOuxxqPD5DTbWC9F9WvPStp3pb7ARoBoK2mJ3pd3YG4lxA9i8bj60TbadwezxgeEByY
+  expiration: 86400
